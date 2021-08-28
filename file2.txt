@@ -1,2 +1,6 @@
 this is my second file.
+
 changing second file from master branch.
+
+Changing in the second file in branch feature1.
+
