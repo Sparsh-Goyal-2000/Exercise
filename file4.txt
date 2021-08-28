@@ -1,3 +1,7 @@
 this is my fourth file.
 created in master branch
+
 changing this fourth file from master branch
+
+changing this fourth file from feature2 branch
+
