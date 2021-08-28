@@ -1,0 +1,3 @@
+this is my sixth file.
+created in master branch.
+while file5 is in stash.
